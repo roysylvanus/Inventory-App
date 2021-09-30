@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_between_elements">8dp</dimen>
+</resources>
